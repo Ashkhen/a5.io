@@ -1,0 +1,317 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="mispronounces.css" crc="4195495102" ref="mispronounces"/>
+    <file name="results-0-3.css" crc="201466969" ref="results-0-3"/>
+    <file name="results-5-8-email-sent.css" crc="3922974581" ref="results-5-8-email-sent"/>
+    <file name="results-5-8.css" crc="3947937986" ref="results-5-8"/>
+    <file name="comm-poorly.css" crc="301429484" ref="comm-poorly"/>
+    <file name="results3-4.css" crc="4187959578" ref="results3-4"/>
+    <file name="stutters.css" crc="61237696" ref="stutters"/>
+    <file name="results3-4-email.css" crc="291974592" ref="results3-4-email"/>
+    <file name="age.css" crc="220034151" ref="age"/>
+    <file name="home-diagnosis.css" crc="4018851724" ref="home-diagnosis"/>
+    <file name="result-0-3-subscribed.css" crc="3853528632" ref="result-0-3-subscribed"/>
+    <file name="index.css" crc="533269274" ref="index"/>
+    <file name="mispron-r.css" crc="67102487" ref="mispron-r"/>
+    <file name="content-page.css" crc="3827973378" ref="content-page"/>
+    <file name="results3-4-email-ok.css" crc="4050965957" ref="results3-4-email-ok"/>
+    <file name="symptoms.css" crc="339124196" ref="symptoms"/>
+    <file name="5-8.css" crc="3940675875" ref="5-8"/>
+    <file name="results3-4-v2.css" crc="398241673" ref="results3-4-v2"/>
+    <file name="0-3.css" crc="522948890" ref="0-3"/>
+    <file name="3-4.css" crc="3939749471" ref="3-4"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="home-diagnosis:age:0-3:symptoms:mispronounces:5-8:3-4:results-0-3:results-5-8:results3-4:mispron-r:results3-4-email:result-0-3-subscribed:results-5-8-email-sent:content-page:index:results3-4-v2:stutters:comm-poorly:results3-4-email-ok"/>
+    <file name="museutils.js" crc="3880880085" ref="home-diagnosis:age:0-3:symptoms:mispronounces:5-8:3-4:results-0-3:results-5-8:results3-4:mispron-r:results3-4-email:result-0-3-subscribed:results-5-8-email-sent:content-page:index:results3-4-v2:stutters:comm-poorly:results3-4-email-ok"/>
+    <file name="pie.js" crc="4147615982" ref="home-diagnosis:age:0-3:symptoms:mispronounces:5-8:3-4:results-0-3:results-5-8:results3-4:mispron-r:results3-4-email:results-5-8-email-sent:content-page:results3-4-v2:stutters:comm-poorly:results3-4-email-ok"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="home-diagnosis:age:0-3:symptoms:mispronounces:5-8:3-4:results-0-3:results-5-8:results3-4:mispron-r:results3-4-email:result-0-3-subscribed:results-5-8-email-sent:content-page:index:results3-4-v2:stutters:comm-poorly:results3-4-email-ok"/>
+  </folder>
+  <folder name="images">
+    <file name="header_diagnose.jpg" crc="178788085" ref="home-diagnosis:age:0-3:symptoms:mispronounces:5-8:3-4:results-0-3:results-5-8:results3-4:mispron-r:results3-4-email:result-0-3-subscribed:results-5-8-email-sent:index:results3-4-v2:stutters:comm-poorly:results3-4-email-ok"/>
+    <file name="u221-5.png" crc="138889704" ref="home-diagnosis"/>
+    <file name="u219-7.png" crc="438249640" ref="home-diagnosis"/>
+    <file name="u2887-4.png" crc="192409418" ref="home-diagnosis"/>
+    <file name="u2890-4.png" crc="3976973395" ref="home-diagnosis"/>
+    <file name="u2896-4.png" crc="3976455554" ref="home-diagnosis"/>
+    <file name="u2875-4.png" crc="252459468" ref="home-diagnosis"/>
+    <file name="u2883-4.png" crc="476887112" ref="home-diagnosis"/>
+    <file name="u245-4.png" crc="506544630" ref="age"/>
+    <file name="u251-4.png" crc="252459468" ref="age"/>
+    <file name="u345-4.png" crc="476887112" ref="age"/>
+    <file name="u355-4.png" crc="192409418" ref="age"/>
+    <file name="u367-4.png" crc="3976973395" ref="age"/>
+    <file name="u375-4.png" crc="3976455554" ref="age"/>
+    <file name="u3251-5.png" crc="138889704" ref="0-3"/>
+    <file name="u3250-7.png" crc="438249640" ref="0-3"/>
+    <file name="u432-4.png" crc="252459468" ref="0-3"/>
+    <file name="u1917-4.png" crc="281655100" ref="0-3"/>
+    <file name="u392-4.png" crc="192409418" ref="0-3"/>
+    <file name="u407-4.png" crc="3976973395" ref="0-3"/>
+    <file name="u404-4.png" crc="3976455554" ref="0-3"/>
+    <file name="u394-4.png" crc="4071393163" ref="0-3"/>
+    <file name="u397-4.png" crc="476887112" ref="0-3"/>
+    <file name="check.png" crc="197440629" ref="0-3:mispronounces:5-8:3-4:mispron-r:stutters:comm-poorly"/>
+    <file name="u455-4.png" crc="52042450" ref="symptoms"/>
+    <file name="u471-4.png" crc="181498090" ref="symptoms"/>
+    <file name="u473-4.png" crc="3856967411" ref="symptoms"/>
+    <file name="u475-4.png" crc="4220305879" ref="symptoms"/>
+    <file name="u3261-4.png" crc="281655100" ref="symptoms"/>
+    <file name="u496-4.png" crc="73151182" ref="symptoms"/>
+    <file name="u499-4.png" crc="4282579982" ref="symptoms"/>
+    <file name="u2371-4.png" crc="4220305879" ref="symptoms"/>
+    <file name="u508-4.png" crc="4015942358" ref="symptoms"/>
+    <file name="u511-4.png" crc="493734316" ref="symptoms"/>
+    <file name="u2373-4.png" crc="4220305879" ref="symptoms"/>
+    <file name="u1319-4.png" crc="52042450" ref="mispronounces"/>
+    <file name="u1321-4.png" crc="3998138094" ref="mispronounces"/>
+    <file name="u1322-4.png" crc="151164110" ref="mispronounces"/>
+    <file name="u1918-4.png" crc="4017125423" ref="mispronounces"/>
+    <file name="u1920-4.png" crc="314483951" ref="mispronounces"/>
+    <file name="u1922-4.png" crc="3933059272" ref="mispronounces"/>
+    <file name="u1928-4.png" crc="131079457" ref="mispronounces"/>
+    <file name="u1333-4.png" crc="4254855326" ref="mispronounces"/>
+    <file name="u1331-full.png" crc="374269783" ref="mispronounces:mispron-r:stutters:comm-poorly"/>
+    <file name="u1950-4.png" crc="4254855326" ref="mispronounces"/>
+    <file name="u1966-4.png" crc="4254855326" ref="mispronounces"/>
+    <file name="u2014-4.png" crc="4254855326" ref="mispronounces"/>
+    <file name="u1927-4.png" crc="44279121" ref="mispronounces"/>
+    <file name="u2006-4.png" crc="4254855326" ref="mispronounces"/>
+    <file name="u1926-4.png" crc="4149032341" ref="mispronounces"/>
+    <file name="u1999-4.png" crc="4254855326" ref="mispronounces"/>
+    <file name="u1930-4.png" crc="4049266167" ref="mispronounces"/>
+    <file name="u2026-4.png" crc="4254855326" ref="mispronounces"/>
+    <file name="u3243-4.png" crc="281655100" ref="mispronounces"/>
+    <file name="u1323-6.png" crc="4142365134" ref="mispronounces"/>
+    <file name="u1324-6.png" crc="4175688496" ref="mispronounces"/>
+    <file name="u1328-6.png" crc="4147349875" ref="mispronounces"/>
+    <file name="u1329-6.png" crc="452247809" ref="mispronounces"/>
+    <file name="u1325-6.png" crc="3872656552" ref="mispronounces"/>
+    <file name="u1326-6.png" crc="202975407" ref="mispronounces"/>
+    <file name="u1327-6.png" crc="115904830" ref="mispronounces"/>
+    <file name="volume_big.png" crc="142451459" ref="mispronounces:mispron-r:stutters:comm-poorly"/>
+    <file name="u2846-4.png" crc="4024080805" ref="mispronounces"/>
+    <file name="u2924-4.png" crc="4024080805" ref="mispronounces"/>
+    <file name="u2935-4.png" crc="4024080805" ref="mispronounces"/>
+    <file name="u2943-4.png" crc="4024080805" ref="mispronounces"/>
+    <file name="u2958-4.png" crc="4024080805" ref="mispronounces"/>
+    <file name="u2971-4.png" crc="4024080805" ref="mispronounces"/>
+    <file name="u2978-4.png" crc="4024080805" ref="mispronounces"/>
+    <file name="u852-4.png" crc="506544630" ref="5-8"/>
+    <file name="u859-4.png" crc="476887112" ref="5-8"/>
+    <file name="u893-4.png" crc="192409418" ref="5-8"/>
+    <file name="u874-4.png" crc="3976973395" ref="5-8"/>
+    <file name="u870-4.png" crc="3976455554" ref="5-8"/>
+    <file name="u855-4.png" crc="4071393163" ref="5-8"/>
+    <file name="u854-4.png" crc="252459468" ref="5-8"/>
+    <file name="u2907-5.png" crc="138889704" ref="3-4"/>
+    <file name="u2906-7.png" crc="438249640" ref="3-4"/>
+    <file name="u3249-4.png" crc="281655100" ref="3-4"/>
+    <file name="u913-4.png" crc="192409418" ref="3-4"/>
+    <file name="u924-4.png" crc="3976973395" ref="3-4"/>
+    <file name="u921-4.png" crc="3976455554" ref="3-4"/>
+    <file name="u928-4.png" crc="4071393163" ref="3-4"/>
+    <file name="u909-4-a.png" crc="476887112" ref="3-4"/>
+    <file name="u915-4.png" crc="252459468" ref="3-4"/>
+    <file name="u972-4.png" crc="458634591" ref="results-0-3"/>
+    <file name="u973-9.png" crc="4252182844" ref="results-0-3"/>
+    <file name="u978-4.png" crc="4096206082" ref="results-0-3"/>
+    <file name="u977-4.png" crc="508019624" ref="results-0-3"/>
+    <file name="u3233-4.png" crc="281655100" ref="results-0-3"/>
+    <file name="sbconnect.jpg" crc="291677411" ref="results-0-3"/>
+    <file name="u1015-10.png" crc="401607301" ref="results-0-3"/>
+    <file name="u3208-4.png" crc="131927876" ref="results-0-3"/>
+    <file name="u1115-4.png" crc="4006487441" ref="results-5-8"/>
+    <file name="u1690-7.png" crc="500387004" ref="results-5-8"/>
+    <file name="u1117-4.png" crc="128654587" ref="results-5-8"/>
+    <file name="u1111-4.png" crc="4119910834" ref="results-5-8"/>
+    <file name="u1113-4.png" crc="4178920043" ref="results-5-8"/>
+    <file name="u1114-4.png" crc="4098741236" ref="results-5-8"/>
+    <file name="u1112-4.png" crc="64924665" ref="results-5-8"/>
+    <file name="u1121-4.png" crc="81414177" ref="results-5-8"/>
+    <file name="screen shot 2014-04-28 at 34840 pm211x182.jpg" crc="316623206" ref="results-5-8"/>
+    <file name="8-.png" crc="3803387110" ref="results-5-8:results3-4:results3-4-email:results-5-8-email-sent:results3-4-v2:results3-4-email-ok"/>
+    <file name="u1127-4.png" crc="141276583" ref="results-5-8"/>
+    <file name="u1128-15.png" crc="151431815" ref="results-5-8"/>
+    <file name="u1156-4.png" crc="40488615" ref="results3-4"/>
+    <file name="u1151-7.png" crc="4108263697" ref="results3-4"/>
+    <file name="u1152-4.png" crc="3830375575" ref="results3-4"/>
+    <file name="u1154-4.png" crc="4266577102" ref="results3-4"/>
+    <file name="u1155-4.png" crc="449715829" ref="results3-4"/>
+    <file name="u1153-4.png" crc="64924665" ref="results3-4"/>
+    <file name="u1162-4.png" crc="278682035" ref="results3-4"/>
+    <file name="u1160-4.png" crc="4089559832" ref="results3-4"/>
+    <file name="u1157-4.png" crc="4175007120" ref="results3-4"/>
+    <file name="u1502-4.png" crc="52042450" ref="mispron-r"/>
+    <file name="u1503-4.png" crc="3998138094" ref="mispron-r"/>
+    <file name="u1470-4.png" crc="424762694" ref="mispron-r"/>
+    <file name="u2257-4.png" crc="4017125423" ref="mispron-r"/>
+    <file name="u2259-4.png" crc="314483951" ref="mispron-r"/>
+    <file name="u2261-4.png" crc="3933059272" ref="mispron-r"/>
+    <file name="u2258-4.png" crc="131079457" ref="mispron-r"/>
+    <file name="u3144-4.png" crc="4024080805" ref="mispron-r"/>
+    <file name="u3154-4.png" crc="4024080805" ref="mispron-r"/>
+    <file name="u2301-4.png" crc="4254855326" ref="mispron-r"/>
+    <file name="u2281-4.png" crc="4254855326" ref="mispron-r"/>
+    <file name="u2260-4.png" crc="44279121" ref="mispron-r"/>
+    <file name="u2297-4.png" crc="4254855326" ref="mispron-r"/>
+    <file name="u2262-4.png" crc="4149032341" ref="mispron-r"/>
+    <file name="u2312-4.png" crc="4254855326" ref="mispron-r"/>
+    <file name="u2263-4.png" crc="4049266167" ref="mispron-r"/>
+    <file name="u2316-4.png" crc="4254855326" ref="mispron-r"/>
+    <file name="u3276-4.png" crc="281655100" ref="mispron-r"/>
+    <file name="u1504-4.png" crc="4071393163" ref="mispron-r"/>
+    <file name="u2291-4.png" crc="4254855326" ref="mispron-r"/>
+    <file name="u3136-6.png" crc="4142365134" ref="mispron-r"/>
+    <file name="u3141-6.png" crc="4175688496" ref="mispron-r"/>
+    <file name="u3142-6.png" crc="4147349875" ref="mispron-r"/>
+    <file name="u3140-6.png" crc="452247809" ref="mispron-r"/>
+    <file name="u3138-6.png" crc="3872656552" ref="mispron-r"/>
+    <file name="u3137-6.png" crc="202975407" ref="mispron-r"/>
+    <file name="u3139-6.png" crc="115904830" ref="mispron-r"/>
+    <file name="u3159-4.png" crc="4024080805" ref="mispron-r"/>
+    <file name="u3162-4.png" crc="4024080805" ref="mispron-r"/>
+    <file name="u3171-4.png" crc="4024080805" ref="mispron-r"/>
+    <file name="u3174-4.png" crc="4024080805" ref="mispron-r"/>
+    <file name="u3184-4.png" crc="4024080805" ref="mispron-r"/>
+    <file name="u2275-4.png" crc="4254855326" ref="mispron-r"/>
+    <file name="u2791-4.png" crc="152685640" ref="results3-4-email"/>
+    <file name="u2779-4.png" crc="3830375575" ref="results3-4-email"/>
+    <file name="u2781-4.png" crc="4178920043" ref="results3-4-email"/>
+    <file name="u2782-4.png" crc="4098741236" ref="results3-4-email"/>
+    <file name="u2780-4.png" crc="64924665" ref="results3-4-email"/>
+    <file name="u2788-4.png" crc="4193880543" ref="results3-4-email"/>
+    <file name="u2677-4.png" crc="40488615" ref="results3-4-email"/>
+    <file name="u2675-7.png" crc="409072661" ref="results3-4-email"/>
+    <file name="pasted image 128x128.png" crc="435950780" ref="results3-4-email:results3-4-v2:results3-4-email-ok"/>
+    <file name="u2676-7.png" crc="3859613896" ref="results3-4-email"/>
+    <file name="u2680-4.png" crc="3797429324" ref="results3-4-email"/>
+    <file name="u2678-4.png" crc="133635756" ref="results3-4-email"/>
+    <file name="speachbuddies-4500_v1_final.jpg" crc="396716403" ref="results3-4-email:results3-4-v2:results3-4-email-ok"/>
+    <file name="u3212-4.png" crc="327590259" ref="results3-4-email"/>
+    <file name="u3214-4.png" crc="299237178" ref="results3-4-email"/>
+    <file name="u1622-4.png" crc="458634591" ref="result-0-3-subscribed"/>
+    <file name="u1619-8.png" crc="4201979163" ref="result-0-3-subscribed"/>
+    <file name="u1614-4.png" crc="149623784" ref="result-0-3-subscribed"/>
+    <file name="u1616-15.png" crc="151431815" ref="result-0-3-subscribed"/>
+    <file name="u1651-4.png" crc="4006487441" ref="results-5-8-email-sent"/>
+    <file name="u1691-7.png" crc="500387004" ref="results-5-8-email-sent"/>
+    <file name="u1641-4.png" crc="128654587" ref="results-5-8-email-sent"/>
+    <file name="u1650-6.png" crc="4274308090" ref="results-5-8-email-sent"/>
+    <file name="u1644-4.png" crc="4175007120" ref="results-5-8-email-sent"/>
+    <file name="u1664-4.png" crc="141276583" ref="results-5-8-email-sent"/>
+    <file name="header_learn.jpg" crc="38223433" ref="content-page:index"/>
+    <file name="u1718-4.png" crc="3946428697" ref="content-page"/>
+    <file name="u1720-8.png" crc="389482116" ref="content-page"/>
+    <file name="screen shot 2014-04-28 at 34840 pm.jpg" crc="4201869916" ref="content-page"/>
+    <file name="u1728-4.png" crc="225297415" ref="content-page"/>
+    <file name="u1732-4.png" crc="4161692775" ref="content-page"/>
+    <file name="u1734-4.png" crc="198686044" ref="content-page"/>
+    <file name="u1733-4.png" crc="231072521" ref="content-page"/>
+    <file name="u1736-4.png" crc="72094350" ref="content-page"/>
+    <file name="u1745-4.png" crc="4094498152" ref="content-page"/>
+    <file name="u1747-4.png" crc="3821606849" ref="content-page"/>
+    <file name="u1746-4.png" crc="4071659020" ref="content-page"/>
+    <file name="u2844-6.png" crc="4041881733" ref="content-page"/>
+    <file name="screen shot 2014-04-30 at 103000 am.jpg" crc="3943892711" ref="content-page"/>
+    <file name="screen shot 2014-04-30 at 102916 am.jpg" crc="272779470" ref="content-page"/>
+    <file name="u1751-7.png" crc="3925416999" ref="content-page"/>
+    <file name="home.jpg" crc="4075937944" ref="index"/>
+    <file name="u2406-4.png" crc="40488615" ref="results3-4-v2"/>
+    <file name="u2405-7.png" crc="409072661" ref="results3-4-v2"/>
+    <file name="u2402-7.png" crc="4110711238" ref="results3-4-v2"/>
+    <file name="u2398-4.png" crc="3797429324" ref="results3-4-v2"/>
+    <file name="u3281-4.png" crc="281655100" ref="results3-4-v2"/>
+    <file name="u2394-4.png" crc="327590259" ref="results3-4-v2"/>
+    <file name="u3199-4.png" crc="299237178" ref="results3-4-v2"/>
+    <file name="u2460-4.png" crc="52042450" ref="stutters"/>
+    <file name="u2427-4.png" crc="3857228644" ref="stutters"/>
+    <file name="u2521-4.png" crc="4202452577" ref="stutters"/>
+    <file name="u2507-4.png" crc="4126880004" ref="stutters"/>
+    <file name="u2549-4.png" crc="4022872577" ref="stutters"/>
+    <file name="u2553-4.png" crc="3759888435" ref="stutters"/>
+    <file name="u2467-4.png" crc="4254855326" ref="stutters"/>
+    <file name="u2477-4.png" crc="4254855326" ref="stutters"/>
+    <file name="u2449-4.png" crc="4254855326" ref="stutters"/>
+    <file name="u2555-4.png" crc="295222741" ref="stutters"/>
+    <file name="u2497-4.png" crc="4254855326" ref="stutters"/>
+    <file name="u2557-4.png" crc="4191776673" ref="stutters"/>
+    <file name="u2431-4.png" crc="4254855326" ref="stutters"/>
+    <file name="u2558-4.png" crc="461642400" ref="stutters"/>
+    <file name="u2524-4.png" crc="4254855326" ref="stutters"/>
+    <file name="u3266-4.png" crc="281655100" ref="stutters"/>
+    <file name="u2438-6.png" crc="365554997" ref="stutters"/>
+    <file name="u2513-6.png" crc="365554997" ref="stutters"/>
+    <file name="u2492-6.png" crc="365554997" ref="stutters"/>
+    <file name="u2437-6.png" crc="365554997" ref="stutters"/>
+    <file name="u2459-6.png" crc="365554997" ref="stutters"/>
+    <file name="u2491-6.png" crc="365554997" ref="stutters"/>
+    <file name="u2984-4.png" crc="4024080805" ref="stutters"/>
+    <file name="u2992-4.png" crc="4024080805" ref="stutters"/>
+    <file name="u2996-4.png" crc="4024080805" ref="stutters"/>
+    <file name="u3005-4.png" crc="4024080805" ref="stutters"/>
+    <file name="u3011-4.png" crc="4024080805" ref="stutters"/>
+    <file name="u3016-4.png" crc="4024080805" ref="stutters"/>
+    <file name="u2579-4.png" crc="52042450" ref="comm-poorly"/>
+    <file name="u2615-4.png" crc="90008988" ref="comm-poorly"/>
+    <file name="u2647-4.png" crc="3836838318" ref="comm-poorly"/>
+    <file name="u3032-4.png" crc="4126880004" ref="comm-poorly"/>
+    <file name="u3033-4.png" crc="4022872577" ref="comm-poorly"/>
+    <file name="u3034-4.png" crc="3759888435" ref="comm-poorly"/>
+    <file name="u3035-4.png" crc="295222741" ref="comm-poorly"/>
+    <file name="u3036-4.png" crc="4191776673" ref="comm-poorly"/>
+    <file name="u3037-4.png" crc="461642400" ref="comm-poorly"/>
+    <file name="u3042-4.png" crc="4254855326" ref="comm-poorly"/>
+    <file name="u3061-4.png" crc="4254855326" ref="comm-poorly"/>
+    <file name="u3078-4.png" crc="4254855326" ref="comm-poorly"/>
+    <file name="u3053-4.png" crc="4254855326" ref="comm-poorly"/>
+    <file name="u3072-4.png" crc="4254855326" ref="comm-poorly"/>
+    <file name="u3086-4.png" crc="4254855326" ref="comm-poorly"/>
+    <file name="u3271-4.png" crc="281655100" ref="comm-poorly"/>
+    <file name="u3051-6.png" crc="365554997" ref="comm-poorly"/>
+    <file name="u3046-6.png" crc="365554997" ref="comm-poorly"/>
+    <file name="u3047-6.png" crc="365554997" ref="comm-poorly"/>
+    <file name="u3049-6.png" crc="365554997" ref="comm-poorly"/>
+    <file name="u3050-6.png" crc="365554997" ref="comm-poorly"/>
+    <file name="u3048-6.png" crc="365554997" ref="comm-poorly"/>
+    <file name="u3092-4.png" crc="4024080805" ref="comm-poorly"/>
+    <file name="u3096-4.png" crc="4024080805" ref="comm-poorly"/>
+    <file name="u3103-4.png" crc="4024080805" ref="comm-poorly"/>
+    <file name="u3109-4.png" crc="4024080805" ref="comm-poorly"/>
+    <file name="u3116-4.png" crc="4024080805" ref="comm-poorly"/>
+    <file name="u3120-4.png" crc="4024080805" ref="comm-poorly"/>
+    <file name="u2804-4.png" crc="152685640" ref="results3-4-email-ok"/>
+    <file name="u2805-4.png" crc="4277212195" ref="results3-4-email-ok"/>
+    <file name="u2798-4.png" crc="4175982646" ref="results3-4-email-ok"/>
+    <file name="u2806-4.png" crc="4172977637" ref="results3-4-email-ok"/>
+    <file name="u2797-4.png" crc="3869718329" ref="results3-4-email-ok"/>
+    <file name="u2800-4.png" crc="130782965" ref="results3-4-email-ok"/>
+    <file name="u2814-4.png" crc="40488615" ref="results3-4-email-ok"/>
+    <file name="u2817-7.png" crc="409072661" ref="results3-4-email-ok"/>
+    <file name="u2816-7.png" crc="3859613896" ref="results3-4-email-ok"/>
+    <file name="u2812-4.png" crc="3797429324" ref="results3-4-email-ok"/>
+    <file name="u3219-4.png" crc="327590259" ref="results3-4-email-ok"/>
+    <file name="u3221-4.png" crc="299237178" ref="results3-4-email-ok"/>
+  </folder>
+  <file name="home-diagnosis.html" crc="4122051660" mt="1399309487114" redirect="true"/>
+  <file name="age.html" crc="389523113" mt="1398978801834" redirect="true"/>
+  <file name="0-3.html" crc="311816916" mt="1399316384427" redirect="true"/>
+  <file name="symptoms.html" crc="102384021" mt="1399316417113" redirect="true"/>
+  <file name="mispronounces.html" crc="473568568" mt="1399316473868" redirect="true"/>
+  <file name="5-8.html" crc="3945774256" mt="1398978801844" redirect="true"/>
+  <file name="3-4.html" crc="3949140140" mt="1399316297482" redirect="true"/>
+  <file name="results-0-3.html" crc="432999546" mt="1399316238197" redirect="true"/>
+  <file name="results-5-8.html" crc="289534255" mt="1398978801854" redirect="true"/>
+  <file name="results3-4.html" crc="3400139" mt="1398978801857" redirect="true"/>
+  <file name="mispron-r.html" crc="3843041828" mt="1399316579389" redirect="true"/>
+  <file name="results3-4-email.html" crc="4124251385" mt="1399316677783" redirect="true"/>
+  <file name="result-0-3-subscribed.html" crc="530224930" mt="1398978801990" redirect="true"/>
+  <file name="results-5-8-email-sent.html" crc="494234859" mt="1398978801993" redirect="true"/>
+  <file name="content-page.html" crc="3955720639" mt="1398980717790" redirect="true"/>
+  <file name="index.html" crc="453620009" mt="1398978801999" redirect="true"/>
+  <file name="results3-4-v2.html" crc="3919264412" mt="1399316654700" redirect="true"/>
+  <file name="stutters.html" crc="3895961835" mt="1399316527030" redirect="true"/>
+  <file name="comm-poorly.html" crc="3968938527" mt="1399316546651" redirect="true"/>
+  <file name="results3-4-email-ok.html" crc="4288228565" mt="1399316692421" redirect="true"/>
+</manifest>
