@@ -260,7 +260,7 @@ input[type="email"] {
 }
 
 .image.fit {
-    display:block;
+    display: block;
 }
 
 .image.fit img {
@@ -370,6 +370,7 @@ input[type="email"] {
     background: #0976a4;
     color: white;
 }
+
 .icon.feature {
     cursor: default;
     display: block;
@@ -922,7 +923,6 @@ table.default thead {
 
 #main > :last-child {
     margin-bottom: 0;
-
 
 }
 
