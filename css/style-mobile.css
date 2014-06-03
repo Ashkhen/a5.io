@@ -163,3 +163,7 @@ body.contact #main {
 #footer {
     padding: 3em 1.5em;
 }
+
+.image img {
+    width: 350px;
+}

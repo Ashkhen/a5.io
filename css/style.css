@@ -942,6 +942,19 @@ body.index #main {
     padding-top: 5em;
 }
 
+.bio {
+    text-align: center;
+    padding: 2em 9em;
+}
+
+.bio p {
+    margin: 0;
+}
+
+.institution {
+    display: block;
+}
+
 /* CTA */
 
 #cta {
