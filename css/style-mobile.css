@@ -167,3 +167,7 @@ body.contact #main {
 .image img {
     width: 100%;
 }
+
+.bio {
+    padding: 2em;
+}
